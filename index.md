@@ -93,9 +93,9 @@ layout: homepage
 <table class="honors-table"><tbody>
   <tr>
     <td>
-      <p>&bull; National Scholarship, Top 0.1%, 2024-2025</p>
-      <p>&bull; National Scholarship, Top 0.1%, 2022-2023</p>
-      <p>&bull; Shanghai Government Scholarship, Top 0.1%, 2023-2024</p>
+      <p>&bull; National Scholarship, 2024-2025</p>
+      <p>&bull; National Scholarship, 2022-2023</p>
+      <p>&bull; Shanghai Government Scholarship, 2023-2024</p>
       <p>&bull; Second Prize, 9th National University Student Integrated Circuit Innovation Competition, 2025</p>
       <p>&bull; Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling, Shanghai Division, 2025</p>
       <p>&bull; Second Prize, Mathematics Competition of Chinese College Students, Shanghai Division, 2024</p>
