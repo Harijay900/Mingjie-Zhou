@@ -7,7 +7,7 @@ layout: homepage
     <td class="section-cell">
       <h2>Research</h2>
       <p>
-        I am now interested in robot learning, dextrous manipulation, robotic foundation models and reinforcement learning. I am also interested in world model and continual learning. My goal is to build generalist robots that can learn by interacting with the physical world. Previously, I have also worked on LLM for analog circuit design automation.
+        My goal is to build generalist robots that can learn by interacting with the physical world. I am now interested in robot learning, dextrous manipulation, robotic foundation models and reinforcement learning. I am also interested in world model and continual learning.  Previously, I also worked on LLM for analog circuit design automation.
       </p>
     </td>
   </tr>
