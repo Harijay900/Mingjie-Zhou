@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="620" viewBox="0 0 520 620">
+  <rect width="520" height="620" fill="#f3f4f6"/>
+  <rect x="30" y="30" width="460" height="560" rx="22" fill="#e5e7eb" stroke="#d1d5db"/>
+  <circle cx="260" cy="230" r="82" fill="#cbd5e1"/>
+  <rect x="130" y="350" width="260" height="24" rx="12" fill="#cbd5e1"/>
+  <rect x="170" y="392" width="180" height="20" rx="10" fill="#cbd5e1"/>
+  <text x="260" y="505" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#6b7280">Photo Placeholder</text>
+</svg>

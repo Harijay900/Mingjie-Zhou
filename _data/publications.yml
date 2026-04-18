@@ -1,0 +1,26 @@
+main:
+
+  - title: "SynManDex: Human-like Dexterous Grasping from Synthetic Human Priors"
+    authors: Yanming Shao*, Zanxin Chen*, Wenwei Lin*, <strong>Mingjie Zhou*</strong>, Tianxing Chen, Xiaokang Yang, Yichen Chi, Yao Mu
+    conference_short: Submit
+    conference: In Submission, 2026.
+    badge: SynManDex
+    year: 2026
+    pdf:
+    code:
+    page:
+    image: ./assets/img/Pub_SynmanDex.png
+    highlight: false
+    summary: Synthetic human priors are used to generate human-like dexterous grasping data.
+
+  - title: "AnalogSeeker: An Open-source Foundation Language Model for Analog Circuit Design"
+    authors: Zihao Chen*, Ji Zhuang*, Jinyi Shen, Xiaoyue Ke, Xinyi Yang, <strong>Mingjie Zhou</strong>, Zhuoyao Du, Xu Yan, Zhouyang Wu, Zhenyu Xu, Jiangli Huang, Li Shang, Xuan Zeng, Fan Yang
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    badge: AnalogSeeker
+    year: 2025
+    pdf:
+    code:
+    page:
+    image: ./assets/img/Pub_Analogseeker.png
+    summary: An open-source foundation language model for analog circuit design.

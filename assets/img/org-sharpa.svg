@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="160" viewBox="0 0 360 160">
+  <rect width="360" height="160" rx="18" fill="#f5fbff"/>
+  <circle cx="78" cy="80" r="42" fill="#0f766e"/>
+  <text x="78" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="23" fill="#fff">AI</text>
+  <text x="145" y="72" font-family="Lato, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Sharpa</text>
+  <text x="145" y="102" font-family="Lato, Arial, sans-serif" font-size="19" fill="#6b7280">Robotics</text>
+</svg>

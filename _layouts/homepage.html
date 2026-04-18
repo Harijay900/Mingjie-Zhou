@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>{{ site.title }}</title>
+    <meta name="author" content="{{ site.title }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png">
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png">
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/css/barron.css" | relative_url }}">
+  </head>
+
+  <body>
+    <table class="page-table"><tbody>
+      <tr>
+        <td>
+          <table class="intro-table"><tbody>
+            <tr>
+              <td class="intro-copy">
+                <p class="name">{{ site.title }} {% if site.chinese_name %}「{{ site.chinese_name }}」{% endif %}</p>
+                <p>
+                  I am a third-year undergraduate student at
+                  <a href="{{ site.affiliation_link }}">{{ site.affiliation }}</a>,
+                  majoring in Microelectronics. Currently, I am a research intern at the
+                  <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>,
+                  <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, advised by
+                  <a href="https://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html">Prof. Yang Gao</a>.
+                  I am also an intern at <a href="https://www.sharpa.com/">Sharpa Robotics</a>.
+                </p>
+                <p>
+                  Previously, I had the pleasure of working with
+                  <a href="https://yaomarkmu.github.io/">Prof. Yao Mu</a> at
+                  <a href="https://www.shlab.org.cn/">Shanghai AI Lab</a> and
+                  <a href="https://scalelab-sjtu.github.io/">SCALE Lab</a>,
+                  <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, and with
+                  <a href="https://ephonic.github.io/">Prof. Fan Yang</a> at the
+                  <a href="https://www.it.fudan.edu.cn/En/Data/View/1818">State Key Lab of Integrated Circuits and Systems</a>,
+                  <a href="https://www.fudan.edu.cn/en/">Fudan University</a>.
+                </p>
+                <p class="links">
+                  <a href="mailto:22301050033@m.fudan.edu.cn">Email</a>
+                  &nbsp;/&nbsp;
+                  <a href="{{ site.cv_link }}">CV</a>
+                  {% if site.google_scholar %}
+                  &nbsp;/&nbsp;
+                  <a href="{{ site.google_scholar }}">Scholar</a>
+                  {% endif %}
+                  {% if site.github_link %}
+                  &nbsp;/&nbsp;
+                  <a href="{{ site.github_link }}">Github</a>
+                  {% endif %}
+                  {% if site.linkedin %}
+                  &nbsp;/&nbsp;
+                  <a href="{{ site.linkedin }}">LinkedIn</a>
+                  {% endif %}
+                </p>
+              </td>
+              <td class="intro-photo">
+                <a href="{{ site.avatar }}"><img alt="profile photo" src="{{ site.avatar }}" class="profile-photo"></a>
+                <!-- <p class="photo-caption">Me at Sevilla, Spain</p> -->
+              </td>
+            </tr>
+          </tbody></table>
+
+          {{ content }}
+
+          <table class="footer-table"><tbody>
+            <tr>
+              <td>
+                <p class="footnote">
+                  Website template adapted from <a href="https://jonbarron.info/">Jon Barron</a>.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+  </body>
+</html>

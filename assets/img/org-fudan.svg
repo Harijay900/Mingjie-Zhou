@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="160" viewBox="0 0 360 160">
+  <rect width="360" height="160" rx="18" fill="#f6f7fb"/>
+  <circle cx="78" cy="80" r="42" fill="#163b8f"/>
+  <text x="78" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#fff">FD</text>
+  <text x="145" y="72" font-family="Lato, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2937">Fudan</text>
+  <text x="145" y="102" font-family="Lato, Arial, sans-serif" font-size="20" fill="#6b7280">University</text>
+</svg>

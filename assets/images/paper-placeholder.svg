@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <rect width="720" height="420" fill="#f9fafb"/>
+  <rect x="24" y="24" width="672" height="372" rx="12" fill="#f3f4f6" stroke="#d1d5db"/>
+  <rect x="70" y="88" width="580" height="24" rx="8" fill="#cbd5e1"/>
+  <rect x="70" y="132" width="430" height="18" rx="8" fill="#d1d5db"/>
+  <rect x="70" y="164" width="500" height="18" rx="8" fill="#d1d5db"/>
+  <rect x="70" y="228" width="150" height="34" rx="17" fill="#cbd5e1"/>
+  <text x="360" y="330" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#6b7280">Paper Figure Placeholder</text>
+</svg>

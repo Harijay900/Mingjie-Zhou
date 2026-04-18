@@ -1,0 +1,43 @@
+# Basic Information
+title: Mingjie Zhou
+chinese_name: 周明杰
+position: Undergraduate Researcher
+affiliation: Fudan University
+affiliation_link: https://www.fudan.edu.cn/en/
+email: 22301050033 (at) m.fudan.edu.cn
+location: Shanghai, China
+
+# Search Engine Optimization (SEO)
+keywords: Mingjie Zhou, robot learning, dexterous manipulation, robotic foundation models, reinforcement learning
+description: Mingjie Zhou is a third-year undergraduate student at Fudan University working on robot learning, dexterous manipulation, robotic foundation models, and reinforcement learning.
+canonical:
+
+# Links
+cv_link: Resume_Mingjie_Zhou_v0418__with_advisor_.pdf
+google_scholar:
+github_link: https://github.com/Harijay900
+linkedin:
+twitter:
+
+# Images
+avatar: ./assets/img/photo1.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Serif"
+
+exclude:
+  - README.md
+  - LICENSE
+  - legacy-index.html
+  - ref_site.html
+  - 周明杰中文简历v0417.pdf
+  - assets/css/main.css
+  - assets/images/
