@@ -11,6 +11,7 @@ location: Shanghai, China
 keywords: Mingjie Zhou, robot learning, dexterous manipulation, robotic foundation models, reinforcement learning
 description: Mingjie Zhou is a third-year undergraduate student at Fudan University working on robot learning, dexterous manipulation, robotic foundation models, and reinforcement learning.
 canonical:
+baseurl: "/Mingjie-Zhou"
 
 # Links
 cv_link: Resume_Mingjie_Zhou_v0418__with_advisor_.pdf
