@@ -1,5 +1,20 @@
 main:
 
+  - title: "FTP1: Dexterous Manipulation Task Demo"
+    authors: <strong>Mingjie Zhou</strong>
+    conference_short: Demo
+    conference: Project Demo, 2026.
+    badge: FTP1
+    year: 2026
+    pdf:
+    code:
+    page:
+    video_group:
+      - ./assets/videos/ftp1_1.mp4
+      - ./assets/videos/ftp1_2.mp4
+      - ./assets/videos/ftp1_3.mp4
+    summary: Accelerated multi-view demo clips for dexterous manipulation tasks.
+
   - title: "SynManDex: Human-like Dexterous Grasping from Synthetic Human Priors"
     authors: Yanming Shao*, Zanxin Chen*, Wenwei Lin*, <strong>Mingjie Zhou*</strong>, Tianxing Chen, Xiaokang Yang, Yichen Chi, Yao Mu
     conference_short: Submit
