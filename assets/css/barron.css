@@ -140,17 +140,9 @@ ul {
   border-radius: 15px;
 }
 
-.paper-video-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 8px;
-}
-
-.paper-video {
-  width: 100%;
-  max-height: 110px;
-  object-fit: cover;
-  border-radius: 10px;
+.paper-image-placeholder {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
 }
 
 .papertitle {
@@ -284,9 +276,5 @@ ul {
     width: 100%;
     height: auto;
     max-height: 220px;
-  }
-
-  .paper-video {
-    max-height: 200px;
   }
 }

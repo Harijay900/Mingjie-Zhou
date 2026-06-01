@@ -3,14 +3,7 @@
   <tr{% if paper.highlight %} class="highlight-row"{% endif %}>
     <td class="paper-image-cell">
       {% if paper.video_group %}
-      <div class="paper-video-grid">
-        {% for video in paper.video_group %}
-        <video class="paper-video autoplay-accelerated" autoplay loop muted playsinline preload="metadata">
-          <source src="{{ video }}" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
-        {% endfor %}
-      </div>
+      <div class="paper-image paper-image-placeholder"></div>
       {% elsif paper.image %}
       <img src="{{ paper.image }}" class="paper-image" alt="{{ paper.title }}">
       {% endif %}
@@ -47,11 +40,3 @@
   </tr>
 {% endfor %}
 </tbody></table>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(".autoplay-accelerated").forEach(function (video) {
-      video.playbackRate = 1.75;
-    });
-  });
-</script>
