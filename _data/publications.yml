@@ -1,9 +1,9 @@
 main:
 
-  - title: "FTP1: Dexterous Manipulation Task Demo"
-    authors: <strong>Mingjie Zhou</strong>
-    conference_short: Demo
-    conference: Project Demo, 2026.
+  - title: "FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation"
+    authors: Chengbo Yuan*, Zicheng Zhang*, <strong>Mingjie Zhou*</strong>, Wendi Chen, Yi Wang, Zhuoyang Liu, Dantong Niu, Shuo Wang, Hui Zhang, Wenkang Zhang, Yingdong Hu, Yuanqing Gong, Wanli Xing, Chuan Wen, Cewu Lu, Kaifeng Zhang, Yang Gao
+    conference_short: Submit
+    conference: In Submission, 2026.
     badge: FTP1
     year: 2026
     pdf:
@@ -13,7 +13,7 @@ main:
       - ./assets/videos/ftp1_1.mp4
       - ./assets/videos/ftp1_2.mp4
       - ./assets/videos/ftp1_3.mp4
-    summary: Accelerated multi-view demo clips for dexterous manipulation tasks.
+    summary: A generalist tactile foundation policy across heterogeneous tactile sensors for contact-rich dexterous manipulation.
 
   - title: "SynManDex: Human-like Dexterous Grasping from Synthetic Human Priors"
     authors: Yanming Shao*, Zanxin Chen*, Wenwei Lin*, <strong>Mingjie Zhou*</strong>, Tianxing Chen, Xiaokang Yang, Yichen Chi, Yao Mu
@@ -30,8 +30,8 @@ main:
 
   - title: "AnalogSeeker: An Open-source Foundation Language Model for Analog Circuit Design"
     authors: Zihao Chen*, Ji Zhuang*, Jinyi Shen, Xiaoyue Ke, Xinyi Yang, <strong>Mingjie Zhou</strong>, Zhuoyao Du, Xu Yan, Zhouyang Wu, Zhenyu Xu, Jiangli Huang, Li Shang, Xuan Zeng, Fan Yang
-    conference_short: Preprint
-    conference: Preprint, 2025.
+    conference_short: TODAES
+    conference: ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
     badge: AnalogSeeker
     year: 2025
     pdf:
