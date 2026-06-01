@@ -1,7 +1,7 @@
 main:
 
   - title: "FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation"
-    authors: Chengbo Yuan*, Zicheng Zhang*, <strong>Mingjie Zhou*</strong>, Wendi Chen, Yi Wang, Zhuoyang Liu, Dantong Niu, Shuo Wang, Hui Zhang, Wenkang Zhang, Yingdong Hu, Yuanqing Gong, Wanli Xing, Chuan Wen, Cewu Lu, Kaifeng Zhang, Yang Gao
+    authors: Chengbo Yuan*, Zicheng Zhang*, <strong>Mingjie Zhou*</strong>, Wendi Chen, Yi Wang, Zhuoyang Liu, Dantong Niu, Shuo Wang, Hui Zhang, Wenkang Zhang, Yingdong Hu, Yuanqing Gong, Wanli Xing, Chuan Wen, Cewu Lu, Kaifeng Zhang†, Yang Gao†
     conference_short: Submit
     conference: In Submission, 2026.
     badge: FTP1
@@ -16,7 +16,7 @@ main:
     summary: A generalist tactile foundation policy across heterogeneous tactile sensors for contact-rich dexterous manipulation.
 
   - title: "SynManDex: Human-like Dexterous Grasping from Synthetic Human Priors"
-    authors: Yanming Shao*, Zanxin Chen*, Wenwei Lin*, <strong>Mingjie Zhou*</strong>, Tianxing Chen, Xiaokang Yang, Yichen Chi, Yao Mu
+    authors: Yanming Shao*, Zanxin Chen*, Wenwei Lin*, <strong>Mingjie Zhou*</strong>, Tianxing Chen, Xiaokang Yang, Yichen Chi, Yao Mu†
     conference_short: Submit
     conference: In Submission, 2026.
     badge: SynManDex
@@ -29,7 +29,7 @@ main:
     summary: Synthetic human priors are used to generate human-like dexterous grasping data.
 
   - title: "AnalogSeeker: An Open-source Foundation Language Model for Analog Circuit Design"
-    authors: Zihao Chen*, Ji Zhuang*, Jinyi Shen, Xiaoyue Ke, Xinyi Yang, <strong>Mingjie Zhou</strong>, Zhuoyao Du, Xu Yan, Zhouyang Wu, Zhenyu Xu, Jiangli Huang, Li Shang, Xuan Zeng, Fan Yang
+    authors: Zihao Chen*, Ji Zhuang*, Jinyi Shen, Xiaoyue Ke, Xinyi Yang, <strong>Mingjie Zhou</strong>, Zhuoyao Du, Xu Yan, Zhouyang Wu, Zhenyu Xu, Jiangli Huang, Li Shang, Xuan Zeng, Fan Yang†
     conference_short: TODAES
     conference: ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
     badge: AnalogSeeker

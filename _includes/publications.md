@@ -1,3 +1,4 @@
+<p class="publication-note">Authors marked with ∗ contributed equally. Authors marked with † are corresponding authors.</p>
 <table class="publication-table"><tbody>
 {% for paper in site.data.publications.main %}
   <tr{% if paper.highlight %} class="highlight-row"{% endif %}>

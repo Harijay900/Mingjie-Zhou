@@ -120,6 +120,13 @@ ul {
   border-spacing: 0 10px;
 }
 
+.publication-note {
+  margin: 2px 16px 8px;
+  color: #666;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
 .paper-image-cell {
   padding: 16px;
   width: 35%;
